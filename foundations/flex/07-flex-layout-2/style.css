@@ -41,7 +41,7 @@ a {
 }
 
 .card {
-  width: 230px;
+  width: 237px;
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
@@ -58,5 +58,6 @@ a {
 .cards {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.2rem;
+  gap:1rem;
+  margin: 1.8rem 0;
 }
